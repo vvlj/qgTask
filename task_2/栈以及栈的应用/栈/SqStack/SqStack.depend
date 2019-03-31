@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554016703 source:c:\users\33171\desktop\学校任务\qg工作室\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\sqstack\sqstack.c
+	"..\head\SqStack.h"
+	<stdlib.h>
+	<stdio.h>
+
+1553863558 c:\users\33171\desktop\学校任务\qg工作室\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\head\sqstack.h
+
+1554016735 source:c:\users\33171\desktop\学校任务\qg工作室\qg训练营第二次培训\栈以及栈的应用\栈\sqstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../代码和头文件/head/SqStack.h"
+
