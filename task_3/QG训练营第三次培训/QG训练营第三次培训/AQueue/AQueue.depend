@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1554639357 source:c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\__macosx\qg训练营第三次培训\qg训练营第三次培训\aqueue\aqueue.c
+	"../代码和头文件/头文件/._AQueue.h"
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1554636517 c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\__macosx\qg训练营第三次培训\qg训练营第三次培训\代码和头文件\头文件\._aqueue.h
+	<stdio.h>
+
+1554636569 source:c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\__macosx\qg训练营第三次培训\qg训练营第三次培训\aqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../代码和头文件/头文件/._AQueue.h"
+
+1554640182 source:c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\qg训练营第三次培训\qg训练营第三次培训\aqueue\aqueue.c
+	"../代码和头文件/头文件/._AQueue.h"
+
+1554640182 c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\qg训练营第三次培训\qg训练营第三次培训\代码和头文件\头文件\._aqueue.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1554640333 source:c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\qg训练营第三次培训\qg训练营第三次培训\aqueue\main.c
+	"../代码和头文件/头文件/._AQueue.h"
+

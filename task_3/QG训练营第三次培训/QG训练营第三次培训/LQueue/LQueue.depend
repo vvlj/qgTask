@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554635761 source:c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\__macosx\qg训练营第三次培训\qg训练营第三次培训\lqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../代码和头文件/头文件/._LQueue.h"
+	<string.h>
+
+1554632149 source:c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\__macosx\qg训练营第三次培训\qg训练营第三次培训\lqueue\lqueue.c
+	"../代码和头文件/头文件/._LQueue.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1554628574 c:\users\33171\desktop\大学\qg工作室\qg训练营第三次培训\__macosx\qg训练营第三次培训\qg训练营第三次培训\代码和头文件\头文件\._lqueue.h
+	<stdio.h>
+
